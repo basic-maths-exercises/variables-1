@@ -11,10 +11,10 @@ The window on the top left contains some python code.  What this Python code doe
 
 Now that the code has run you should see the following lines in the black (terminal) window that appears on the bottom left:
 
-````
+```python
 The value of x is 19
 The value of y is 10
-````
+```
 
 The idea with these exercises is that I give you some instructions on how to write some code to do something here.  You write your code and then test whether or not it does what I ask for.  You can then test whether or not your code does what I asked you to do.  To test the code in the window on the left click the down arrow on the run button and you should see an option to run tests.  Run the tests now.
 
